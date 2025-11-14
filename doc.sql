@@ -1,7 +1,6 @@
 hello sql
 print(hello world)
 we are learning poll scm
-h
-
+print("This is new world")
 
 
